@@ -5,7 +5,7 @@ Contains sources for implementing Pmod ToF functionality and a simple UART comma
 
 Created for Vivado 2019.1
 
-[Link to the project wiki](https://reference.digilentinc.com/reference/pmod/pmodtof/demouserguide)
+Link to the project wiki [Pmod ToF Hierarchical Block Library](https://reference.digilentinc.com/reference/pmod/pmodtof/demouserguide)
 
 To re-create a Vivado project:
 
