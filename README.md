@@ -1,4 +1,9 @@
 # ZyboZ7-20-PmodToF-Demo
+
+Note: The demo contained in this repository has been moved and this repository is no longer being actively maintained. Check out the [Zybo Z7-20 Pmod-ToF](https://digilent.com/reference/programmable-logic/zybo-z7/demos/pmod-tof) demo page on Digilent Reference for more information.
+
+## Description
+
 PmodToF-Demo library for Zynq, implemented for ZyboZ7-20.
 
 Contains sources for implementing Pmod ToF functionality and a simple UART command interpreter.
